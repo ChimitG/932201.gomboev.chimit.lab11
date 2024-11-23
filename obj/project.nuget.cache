@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aD6j1ORTjlM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Чимит\\Desktop\\web\\lab11\\lab11\\lab11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Чимит\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Чимит\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Чимит\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Чимит\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
